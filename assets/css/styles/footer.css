@@ -1,0 +1,27 @@
+.footer {
+    border-top: 1px solid #ccc;
+    width: 90%;
+    padding-top: 15px;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.footer p {
+    width: 32%;
+    color: #111;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.footer p:hover {
+    border: 1px solid #09c;
+}
